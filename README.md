@@ -6,3 +6,6 @@ For hardening it, people generally put a communication password so that others c
 So I've written a simple script for brute-forcing purpose to find the configured password at port 4370.
 
 This script is for Educational Purpose only and I bear no responsibility if someone uses it for malicious purpose.
+
+#Requirement:
+pip install -U pyzk
