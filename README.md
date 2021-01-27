@@ -7,5 +7,5 @@ So I've written a simple script for brute-forcing purpose to find the configured
 
 This script is for Educational Purpose only and I bear no responsibility if someone uses it for malicious purpose.
 
-#Requirement:
+# Requirements
 pip install -U pyzk
